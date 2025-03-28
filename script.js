@@ -37,7 +37,6 @@ document.addEventListener("DOMContentLoaded", function () {
                     <p><strong>School Year:</strong> ${schoolYear}</p>
                 `;
 
-                // Add click event to open the modal
                 card.addEventListener("click", function () {
                     const modal = document.getElementById("studentModal");
                     document.getElementById("modalPicture").src = picture;
@@ -46,20 +45,20 @@ document.addEventListener("DOMContentLoaded", function () {
                     document.getElementById("modalYearLevelSection").textContent = yearLevelSection;
                     document.getElementById("modalAdviser").textContent = adviser;
                     document.getElementById("modalSchoolYear").textContent = schoolYear;
-                    modal.style.display = "flex"; // Show the modal
+                    modal.style.display = "flex"; 
                 });
 
                 container.appendChild(card);
             }
 
-            // Close the modal when the close button is clicked
+            
             const modal = document.getElementById("studentModal");
             const closeBtn = document.getElementsByClassName("close")[0];
             closeBtn.addEventListener("click", function () {
                 modal.style.display = "none";
             });
 
-            // Close the modal when clicking outside the modal content
+         
             window.addEventListener("click", function (event) {
                 if (event.target === modal) {
                     modal.style.display = "none";

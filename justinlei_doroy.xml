@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library_users>
+    <student>
+        <picture>https://i.pinimg.com/736x/5a/db/fa/5adbfae02998c377d4dfb8892395b645.jpg</picture>
+        <name>James Michael Carter</name>
+        <course>BSIT</course>
+        <year_level_section>3bg2</year_level_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/f4/30/3a/f4303a50bb2dc6951b2c6af66c381ae0.jpg</picture>
+        <name>Ethan Robert Hayes</name>
+        <course>BSIT</course>
+        <year_level_section>3bg2</year_level_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/63/af/f5/63aff59ff4dc5e378c49d2f495b8a31c.jpg</picture>
+        <name>William Joseph Bennett</name>
+        <course>BSIT</course>
+        <year_level_section>3bg2</year_level_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/5d/e9/b6/5de9b6d2907109ada7091c8423dd305e.jpg</picture>
+        <name>Daniel Thomas Reed</name>
+        <course>BSIT</course>
+        <year_level_section>3bg2</year_level_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/5d/63/ab/5d63ab09ed53c6acf536747219bde0ec.jpg</picture>
+        <name>Matthew David Sullivan</name>
+        <course>BSIT</course>
+        <year_level_section>3bg2</year_level_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/44/5a/1f/445a1fe6e0ca54bfdc5a593e68c9cd39.jpg</picture>
+        <name>Emily Grace Thompson</name>
+        <course>BSIT</course>
+        <year_level_section>3bg2</year_level_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/24/a6/1c/24a61c789f628c511dfed746f43899f0.jpg</picture>
+        <name>Sarah Elizabeth Brooks</name>
+        <course>BSIT</course>
+        <year_level_section>3bg2</year_level_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/19/33/d9/1933d9649df62c00dd25caa359ad8896.jpg</picture>
+        <name>Olivia Marie Peterson</name>
+        <course>BSIT</course>
+        <year_level_section>3bg2</year_level_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/09/5c/15/095c157c719106778cb442d4f330b97c.jpg</picture>
+        <name>Emma Watson</name>
+        <course>BSIT</course>
+        <year_level_section>3bg2</year_level_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/57/4f/52/574f526857b4ed6f0488d402cf94c2aa.jpg</picture>
+        <name>Jessica Claire Evans</name>
+        <course>BSIT</course>
+        <year_level_section>3bg2</year_level_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+</library_users>
